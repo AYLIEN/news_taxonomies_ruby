@@ -1,15 +1,14 @@
-# NewsTaxonomy
+# News Taxonomy
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/news_taxonomy`. To experiment with that code, run `bin/console` for an interactive prompt.
+A dictionary style Gem which allows you to convert IAB-QTG and IPTC codes to english and back again.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'news_taxonomy'
+gem 'news_taxonomy', git: 'https://github.com/aylien/news_taxonomies_ruby.git'
 ```
 
 And then execute:
@@ -22,7 +21,29 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To use the gem, simply require it in your ruby file and initialize the taxonomy you wish to use.
+
+
+```
+    iabqtg = NewsTaxonomy::IABQTG.new
+    iptc   = NewsTaxonomy::IPTC.new 
+```
+
+All taxonomies respond to the method `.lookup` which will return the corresponding english or code depending on what you've submitted.
+
+Alternatively, you can call the conversion methods directly.
+
+```
+<a>_to_<b>
+
+def iptc_to_desc
+def iabqtg_to_desc
+def desc_to_iptc
+def desc_to_iabqtg
+
+```
+If the result corresponding result cannot be found; it will default to the orignal variable given.
+
 
 ## Development
 
@@ -32,7 +53,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/news_taxonomy.
+Bug reports and pull requests are welcome on GitHub at https://github.com/aylien/news_taxonomy.
 
 ## License
 
