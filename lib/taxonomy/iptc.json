@@ -1,0 +1,2586 @@
+[{
+  "code": "01000000",
+  "level": 1,
+  "desc": "arts"
+},
+{
+  "code": "01001000",
+  "level": 2,
+  "desc": "archaeology"
+},
+{
+  "code": "01002000",
+  "level": 2,
+  "desc": "architecture"
+},
+{
+  "code": "01004000",
+  "level": 2,
+  "desc": "festive event (including carnival)"
+},
+{
+  "code": "01005000",
+  "level": 2,
+  "desc": "cinema"
+},
+{
+  "code": "01005001",
+  "level": 3,
+  "desc": "film festival"
+},
+{
+  "code": "01006000",
+  "level": 2,
+  "desc": "dance"
+},
+{
+  "code": "01007000",
+  "level": 2,
+  "desc": "fashion"
+},
+{
+  "code": "01008000",
+  "level": 2,
+  "desc": "language"
+},
+{
+  "code": "01009000",
+  "level": 2,
+  "desc": "library and museum"
+},
+{
+  "code": "01010000",
+  "level": 2,
+  "desc": "literature"
+},
+{
+  "code": "01010001",
+  "level": 3,
+  "desc": "fiction"
+},
+{
+  "code": "01010002",
+  "level": 3,
+  "desc": "poetry"
+},
+{
+  "code": "01011000",
+  "level": 2,
+  "desc": "music"
+},
+{
+  "code": "01011001",
+  "level": 3,
+  "desc": "classical music"
+},
+{
+  "code": "01011003",
+  "level": 3,
+  "desc": "jazz music"
+},
+{
+  "code": "01012000",
+  "level": 2,
+  "desc": "painting"
+},
+{
+  "code": "01013000",
+  "level": 2,
+  "desc": "photography"
+},
+{
+  "code": "01014000",
+  "level": 2,
+  "desc": "radio"
+},
+{
+  "code": "01015000",
+  "level": 2,
+  "desc": "sculpture"
+},
+{
+  "code": "01016000",
+  "level": 2,
+  "desc": "television"
+},
+{
+  "code": "01017000",
+  "level": 2,
+  "desc": "theatre"
+},
+{
+  "code": "01017001",
+  "level": 3,
+  "desc": "music theatre"
+},
+{
+  "code": "01018000",
+  "level": 2,
+  "desc": "monument and heritage site"
+},
+{
+  "code": "01020000",
+  "level": 2,
+  "desc": "arts (general)"
+},
+{
+  "code": "01021000",
+  "level": 2,
+  "desc": "entertainment (general)"
+},
+{
+  "code": "01022000",
+  "level": 2,
+  "desc": "culture (general)"
+},
+{
+  "code": "01023000",
+  "level": 2,
+  "desc": "nightclub"
+},
+{
+  "code": "01025000",
+  "level": 2,
+  "desc": "animation"
+},
+{
+  "code": "01026000",
+  "level": 2,
+  "desc": "mass media"
+},
+{
+  "code": "01026001",
+  "level": 3,
+  "desc": "periodicals"
+},
+{
+  "code": "01026002",
+  "level": 3,
+  "desc": "news media"
+},
+{
+  "code": "01026003",
+  "level": 3,
+  "desc": "newspapers"
+},
+{
+  "code": "01026004",
+  "level": 3,
+  "desc": "reviews"
+},
+{
+  "code": "01028000",
+  "level": 2,
+  "desc": "history"
+},
+{
+  "code": "02000000",
+  "level": 1,
+  "desc": "crime"
+},
+{
+  "code": "02001000",
+  "level": 2,
+  "desc": "crime"
+},
+{
+  "code": "02001001",
+  "level": 3,
+  "desc": "homicide"
+},
+{
+  "code": "02001002",
+  "level": 3,
+  "desc": "computer crime"
+},
+{
+  "code": "02001003",
+  "level": 3,
+  "desc": "theft"
+},
+{
+  "code": "02001004",
+  "level": 3,
+  "desc": "drug trafficking"
+},
+{
+  "code": "02001005",
+  "level": 3,
+  "desc": "sexual assault"
+},
+{
+  "code": "02001006",
+  "level": 3,
+  "desc": "assault (general)"
+},
+{
+  "code": "02001007",
+  "level": 3,
+  "desc": "kidnapping"
+},
+{
+  "code": "02001008",
+  "level": 3,
+  "desc": "arson"
+},
+{
+  "code": "02002000",
+  "level": 2,
+  "desc": "judiciary (system of justice)"
+},
+{
+  "code": "02003000",
+  "level": 2,
+  "desc": "police"
+},
+{
+  "code": "02004000",
+  "level": 2,
+  "desc": "punishment"
+},
+{
+  "code": "02005000",
+  "level": 2,
+  "desc": "prison"
+},
+{
+  "code": "02006000",
+  "level": 2,
+  "desc": "laws"
+},
+{
+  "code": "02007000",
+  "level": 2,
+  "desc": "justice and rights"
+},
+{
+  "code": "02008000",
+  "level": 2,
+  "desc": "trials"
+},
+{
+  "code": "02010000",
+  "level": 2,
+  "desc": "organized crime"
+},
+{
+  "code": "02011000",
+  "level": 2,
+  "desc": "international law"
+},
+{
+  "code": "02013000",
+  "level": 2,
+  "desc": "war crime"
+},
+{
+  "code": "03000000",
+  "level": 1,
+  "desc": "disaster and accident"
+},
+{
+  "code": "03001000",
+  "level": 2,
+  "desc": "drought"
+},
+{
+  "code": "03002000",
+  "level": 2,
+  "desc": "earthquake"
+},
+{
+  "code": "03003000",
+  "level": 2,
+  "desc": "famine"
+},
+{
+  "code": "03004000",
+  "level": 2,
+  "desc": "fire"
+},
+{
+  "code": "03005000",
+  "level": 2,
+  "desc": "flood"
+},
+{
+  "code": "03006000",
+  "level": 2,
+  "desc": "industrial accident"
+},
+{
+  "code": "03008000",
+  "level": 2,
+  "desc": "nuclear accident"
+},
+{
+  "code": "03009000",
+  "level": 2,
+  "desc": "pollution"
+},
+{
+  "code": "03010000",
+  "level": 2,
+  "desc": "transport accident"
+},
+{
+  "code": "03010001",
+  "level": 3,
+  "desc": "road accident"
+},
+{
+  "code": "03010002",
+  "level": 3,
+  "desc": "railway accident"
+},
+{
+  "code": "03010003",
+  "level": 3,
+  "desc": "air and space accident"
+},
+{
+  "code": "03010004",
+  "level": 3,
+  "desc": "maritime accident"
+},
+{
+  "code": "03011000",
+  "level": 2,
+  "desc": "volcanic eruption"
+},
+{
+  "code": "03015000",
+  "level": 2,
+  "desc": "disaster (general)"
+},
+{
+  "code": "03015002",
+  "level": 3,
+  "desc": "avalanche/landslide"
+},
+{
+  "code": "03016000",
+  "level": 2,
+  "desc": "emergency planning"
+},
+{
+  "code": "04000000",
+  "level": 1,
+  "desc": "economy"
+},
+{
+  "code": "04001000",
+  "level": 2,
+  "desc": "agriculture"
+},
+{
+  "code": "04001001",
+  "level": 3,
+  "desc": "arable farming"
+},
+{
+  "code": "04001003",
+  "level": 3,
+  "desc": "forestry and timber"
+},
+{
+  "code": "04002000",
+  "level": 2,
+  "desc": "chemicals"
+},
+{
+  "code": "04002001",
+  "level": 3,
+  "desc": "biotechnology"
+},
+{
+  "code": "04002002",
+  "level": 3,
+  "desc": "fertiliser"
+},
+{
+  "code": "04002006",
+  "level": 3,
+  "desc": "pharmaceutical"
+},
+{
+  "code": "04003000",
+  "level": 2,
+  "desc": "computing and information technology"
+},
+{
+  "code": "04003001",
+  "level": 3,
+  "desc": "hardware"
+},
+{
+  "code": "04003003",
+  "level": 3,
+  "desc": "satellite technology"
+},
+{
+  "code": "04003005",
+  "level": 3,
+  "desc": "software"
+},
+{
+  "code": "04003007",
+  "level": 3,
+  "desc": "telecommunication service"
+},
+{
+  "code": "04003008",
+  "level": 3,
+  "desc": "security"
+},
+{
+  "code": "04004000",
+  "level": 2,
+  "desc": "construction and property"
+},
+{
+  "code": "04004002",
+  "level": 3,
+  "desc": "house building"
+},
+{
+  "code": "04004006",
+  "level": 3,
+  "desc": "renovation"
+},
+{
+  "code": "04005000",
+  "level": 2,
+  "desc": "energy and resource"
+},
+{
+  "code": "04005001",
+  "level": 3,
+  "desc": "alternative energy"
+},
+{
+  "code": "04005002",
+  "level": 3,
+  "desc": "coal"
+},
+{
+  "code": "04005003",
+  "level": 3,
+  "desc": "oil and gas - downstream activities"
+},
+{
+  "code": "04005004",
+  "level": 3,
+  "desc": "oil and gas - upstream activities"
+},
+{
+  "code": "04005005",
+  "level": 3,
+  "desc": "nuclear power"
+},
+{
+  "code": "04005006",
+  "level": 3,
+  "desc": "electricity production and distribution"
+},
+{
+  "code": "04005008",
+  "level": 3,
+  "desc": "water supply"
+},
+{
+  "code": "04005009",
+  "level": 3,
+  "desc": "natural resources (general)"
+},
+{
+  "code": "04005010",
+  "level": 3,
+  "desc": "energy (general)"
+},
+{
+  "code": "04005012",
+  "level": 3,
+  "desc": "petrol"
+},
+{
+  "code": "04005013",
+  "level": 3,
+  "desc": "diesel fuel"
+},
+{
+  "code": "04005014",
+  "level": 3,
+  "desc": "kerosene/paraffin"
+},
+{
+  "code": "04006000",
+  "level": 2,
+  "desc": "financial and business service"
+},
+{
+  "code": "04006002",
+  "level": 3,
+  "desc": "banking"
+},
+{
+  "code": "04006005",
+  "level": 3,
+  "desc": "healthcare provider"
+},
+{
+  "code": "04006006",
+  "level": 3,
+  "desc": "insurance"
+},
+{
+  "code": "04006007",
+  "level": 3,
+  "desc": "legal service"
+},
+{
+  "code": "04006013",
+  "level": 3,
+  "desc": "personal service"
+},
+{
+  "code": "04006016",
+  "level": 3,
+  "desc": "rental service"
+},
+{
+  "code": "04006017",
+  "level": 3,
+  "desc": "wedding service"
+},
+{
+  "code": "04006018",
+  "level": 3,
+  "desc": "personal finance"
+},
+{
+  "code": "04006019",
+  "level": 3,
+  "desc": "personal income"
+},
+{
+  "code": "04006020",
+  "level": 3,
+  "desc": "auction service"
+},
+{
+  "code": "04007000",
+  "level": 2,
+  "desc": "consumer goods"
+},
+{
+  "code": "04007003",
+  "level": 3,
+  "desc": "food"
+},
+{
+  "code": "04007009",
+  "level": 3,
+  "desc": "electronic commerce"
+},
+{
+  "code": "04007012",
+  "level": 3,
+  "desc": "toy"
+},
+{
+  "code": "04008000",
+  "level": 2,
+  "desc": "macro economics"
+},
+{
+  "code": "04008001",
+  "level": 3,
+  "desc": "central bank"
+},
+{
+  "code": "04008003",
+  "level": 3,
+  "desc": "debt market"
+},
+{
+  "code": "04008004",
+  "level": 3,
+  "desc": "economic indicator"
+},
+{
+  "code": "04008008",
+  "level": 3,
+  "desc": "government debt"
+},
+{
+  "code": "04008010",
+  "level": 3,
+  "desc": "international economic institution"
+},
+{
+  "code": "04008013",
+  "level": 3,
+  "desc": "economic organization"
+},
+{
+  "code": "04008014",
+  "level": 3,
+  "desc": "consumer confidence"
+},
+{
+  "code": "04008015",
+  "level": 3,
+  "desc": "trade dispute"
+},
+{
+  "code": "04008016",
+  "level": 3,
+  "desc": "inflation and deflation"
+},
+{
+  "code": "04008017",
+  "level": 3,
+  "desc": "prices"
+},
+{
+  "code": "04008019",
+  "level": 3,
+  "desc": "budgets and budgeting"
+},
+{
+  "code": "04008020",
+  "level": 3,
+  "desc": "credit and debt"
+},
+{
+  "code": "04008022",
+  "level": 3,
+  "desc": "mortgages"
+},
+{
+  "code": "04008023",
+  "level": 3,
+  "desc": "financial markets"
+},
+{
+  "code": "04008026",
+  "level": 3,
+  "desc": "stocks"
+},
+{
+  "code": "04008028",
+  "level": 3,
+  "desc": "mutual funds"
+},
+{
+  "code": "04008030",
+  "level": 3,
+  "desc": "imports"
+},
+{
+  "code": "04008031",
+  "level": 3,
+  "desc": "exports"
+},
+{
+  "code": "04008034",
+  "level": 3,
+  "desc": "business enterprises"
+},
+{
+  "code": "04008036",
+  "level": 3,
+  "desc": "trade balance"
+},
+{
+  "code": "04009000",
+  "level": 2,
+  "desc": "market and exchange"
+},
+{
+  "code": "04010000",
+  "level": 2,
+  "desc": "media"
+},
+{
+  "code": "04010002",
+  "level": 3,
+  "desc": "book"
+},
+{
+  "code": "04010003",
+  "level": 3,
+  "desc": "cinema industry"
+},
+{
+  "code": "04010004",
+  "level": 3,
+  "desc": "news agency"
+},
+{
+  "code": "04010005",
+  "level": 3,
+  "desc": "newspaper and magazine"
+},
+{
+  "code": "04010006",
+  "level": 3,
+  "desc": "online"
+},
+{
+  "code": "04010008",
+  "level": 3,
+  "desc": "radio industry"
+},
+{
+  "code": "04010009",
+  "level": 3,
+  "desc": "satellite and cable service"
+},
+{
+  "code": "04010010",
+  "level": 3,
+  "desc": "television industry"
+},
+{
+  "code": "04010011",
+  "level": 3,
+  "desc": "music industry"
+},
+{
+  "code": "04011000",
+  "level": 2,
+  "desc": "manufacturing and engineering"
+},
+{
+  "code": "04011001",
+  "level": 3,
+  "desc": "aerospace"
+},
+{
+  "code": "04011002",
+  "level": 3,
+  "desc": "automotive equipment"
+},
+{
+  "code": "04011004",
+  "level": 3,
+  "desc": "electrical appliance"
+},
+{
+  "code": "04011005",
+  "level": 3,
+  "desc": "heavy engineering"
+},
+{
+  "code": "04011007",
+  "level": 3,
+  "desc": "instrument engineering"
+},
+{
+  "code": "04011008",
+  "level": 3,
+  "desc": "shipbuilding"
+},
+{
+  "code": "04012000",
+  "level": 2,
+  "desc": "metal and mineral"
+},
+{
+  "code": "04012001",
+  "level": 3,
+  "desc": "building material"
+},
+{
+  "code": "04012002",
+  "level": 3,
+  "desc": "gold and precious material"
+},
+{
+  "code": "04012005",
+  "level": 3,
+  "desc": "mining"
+},
+{
+  "code": "04013000",
+  "level": 2,
+  "desc": "process industry"
+},
+{
+  "code": "04013008",
+  "level": 3,
+  "desc": "tobacco"
+},
+{
+  "code": "04014000",
+  "level": 2,
+  "desc": "tourism and leisure"
+},
+{
+  "code": "04014002",
+  "level": 3,
+  "desc": "hotel and accommodation"
+},
+{
+  "code": "04015000",
+  "level": 2,
+  "desc": "transport"
+},
+{
+  "code": "04015001",
+  "level": 3,
+  "desc": "air transport"
+},
+{
+  "code": "04015002",
+  "level": 3,
+  "desc": "railway"
+},
+{
+  "code": "04015004",
+  "level": 3,
+  "desc": "waterway and maritime transport"
+},
+{
+  "code": "04016000",
+  "level": 2,
+  "desc": "company information"
+},
+{
+  "code": "04016001",
+  "level": 3,
+  "desc": "accounting and audit"
+},
+{
+  "code": "04016004",
+  "level": 3,
+  "desc": "antitrust issue"
+},
+{
+  "code": "04016005",
+  "level": 3,
+  "desc": "merger"
+},
+{
+  "code": "04016007",
+  "level": 3,
+  "desc": "bankruptcy"
+},
+{
+  "code": "04016009",
+  "level": 3,
+  "desc": "buyback"
+},
+{
+  "code": "04016011",
+  "level": 3,
+  "desc": "corporate officer"
+},
+{
+  "code": "04016013",
+  "level": 3,
+  "desc": "contract"
+},
+{
+  "code": "04016016",
+  "level": 3,
+  "desc": "earnings forecast"
+},
+{
+  "code": "04016017",
+  "level": 3,
+  "desc": "financially distressed company"
+},
+{
+  "code": "04016018",
+  "level": 3,
+  "desc": "earnings"
+},
+{
+  "code": "04016019",
+  "level": 3,
+  "desc": "financing and stock offering"
+},
+{
+  "code": "04016021",
+  "level": 3,
+  "desc": "global expansion"
+},
+{
+  "code": "04016022",
+  "level": 3,
+  "desc": "insider trading"
+},
+{
+  "code": "04016023",
+  "level": 3,
+  "desc": "joint venture"
+},
+{
+  "code": "04016027",
+  "level": 3,
+  "desc": "litigation and regulation"
+},
+{
+  "code": "04016029",
+  "level": 3,
+  "desc": "marketing"
+},
+{
+  "code": "04016030",
+  "level": 3,
+  "desc": "new product"
+},
+{
+  "code": "04016031",
+  "level": 3,
+  "desc": "patent"
+},
+{
+  "code": "04016033",
+  "level": 3,
+  "desc": "plant opening"
+},
+{
+  "code": "04016036",
+  "level": 3,
+  "desc": "rating"
+},
+{
+  "code": "04016037",
+  "level": 3,
+  "desc": "research and development"
+},
+{
+  "code": "04016038",
+  "level": 3,
+  "desc": "quarterly or semiannual financial statement"
+},
+{
+  "code": "04016041",
+  "level": 3,
+  "desc": "stock activity"
+},
+{
+  "code": "04016044",
+  "level": 3,
+  "desc": "inventories"
+},
+{
+  "code": "04016045",
+  "level": 3,
+  "desc": "sales"
+},
+{
+  "code": "04016046",
+  "level": 3,
+  "desc": "corporations"
+},
+{
+  "code": "04016048",
+  "level": 3,
+  "desc": "corporate performance"
+},
+{
+  "code": "04016050",
+  "level": 3,
+  "desc": "credit ratings"
+},
+{
+  "code": "04016053",
+  "level": 3,
+  "desc": "recalls (products)"
+},
+{
+  "code": "04016054",
+  "level": 3,
+  "desc": "globalization"
+},
+{
+  "code": "04016055",
+  "level": 3,
+  "desc": "consumers"
+},
+{
+  "code": "04017000",
+  "level": 2,
+  "desc": "economy (general)"
+},
+{
+  "code": "04018000",
+  "level": 2,
+  "desc": "business (general)"
+},
+{
+  "code": "04019000",
+  "level": 2,
+  "desc": "finance (general)"
+},
+{
+  "code": "04019001",
+  "level": 3,
+  "desc": "money and monetary policy"
+},
+{
+  "code": "05000000",
+  "level": 1,
+  "desc": "education"
+},
+{
+  "code": "05002000",
+  "level": 2,
+  "desc": "further education"
+},
+{
+  "code": "05003000",
+  "level": 2,
+  "desc": "parent organisation"
+},
+{
+  "code": "05004000",
+  "level": 2,
+  "desc": "preschool"
+},
+{
+  "code": "05005000",
+  "level": 2,
+  "desc": "school"
+},
+{
+  "code": "05005001",
+  "level": 3,
+  "desc": "elementary schools"
+},
+{
+  "code": "05005002",
+  "level": 3,
+  "desc": "middle schools"
+},
+{
+  "code": "05005003",
+  "level": 3,
+  "desc": "high schools"
+},
+{
+  "code": "05007000",
+  "level": 2,
+  "desc": "university"
+},
+{
+  "code": "05008000",
+  "level": 2,
+  "desc": "upbringing"
+},
+{
+  "code": "05009000",
+  "level": 2,
+  "desc": "entrance examination"
+},
+{
+  "code": "05010000",
+  "level": 2,
+  "desc": "teaching and learning"
+},
+{
+  "code": "06000000",
+  "level": 1,
+  "desc": "environmental issue"
+},
+{
+  "code": "06001000",
+  "level": 2,
+  "desc": "renewable energy"
+},
+{
+  "code": "06002000",
+  "level": 2,
+  "desc": "conservation"
+},
+{
+  "code": "06002001",
+  "level": 3,
+  "desc": "endangered species"
+},
+{
+  "code": "06002002",
+  "level": 3,
+  "desc": "ecosystem"
+},
+{
+  "code": "06003000",
+  "level": 2,
+  "desc": "energy saving"
+},
+{
+  "code": "06004000",
+  "level": 2,
+  "desc": "environmental politics"
+},
+{
+  "code": "06005000",
+  "level": 2,
+  "desc": "environmental pollution"
+},
+{
+  "code": "06005001",
+  "level": 3,
+  "desc": "air pollution"
+},
+{
+  "code": "06005002",
+  "level": 3,
+  "desc": "water pollution"
+},
+{
+  "code": "06006000",
+  "level": 2,
+  "desc": "natural resources"
+},
+{
+  "code": "06006001",
+  "level": 3,
+  "desc": "land resources"
+},
+{
+  "code": "06006003",
+  "level": 3,
+  "desc": "forests"
+},
+{
+  "code": "06006004",
+  "level": 3,
+  "desc": "wetlands"
+},
+{
+  "code": "06006006",
+  "level": 3,
+  "desc": "rivers"
+},
+{
+  "code": "06006007",
+  "level": 3,
+  "desc": "oceans"
+},
+{
+  "code": "06006008",
+  "level": 3,
+  "desc": "wildlife"
+},
+{
+  "code": "06006009",
+  "level": 3,
+  "desc": "energy resources"
+},
+{
+  "code": "06008000",
+  "level": 2,
+  "desc": "population"
+},
+{
+  "code": "06009000",
+  "level": 2,
+  "desc": "waste"
+},
+{
+  "code": "06010000",
+  "level": 2,
+  "desc": "water"
+},
+{
+  "code": "06011000",
+  "level": 2,
+  "desc": "global warming"
+},
+{
+  "code": "06012000",
+  "level": 2,
+  "desc": "hazardous materials"
+},
+{
+  "code": "07000000",
+  "level": 1,
+  "desc": "health"
+},
+{
+  "code": "07001000",
+  "level": 2,
+  "desc": "disease"
+},
+{
+  "code": "07001003",
+  "level": 3,
+  "desc": "AIDS"
+},
+{
+  "code": "07001004",
+  "level": 3,
+  "desc": "cancer"
+},
+{
+  "code": "07001006",
+  "level": 3,
+  "desc": "alzheimer's disease"
+},
+{
+  "code": "07002000",
+  "level": 2,
+  "desc": "epidemic and plague"
+},
+{
+  "code": "07003000",
+  "level": 2,
+  "desc": "health treatment"
+},
+{
+  "code": "07003003",
+  "level": 3,
+  "desc": "diet"
+},
+{
+  "code": "07003004",
+  "level": 3,
+  "desc": "medical procedure/test"
+},
+{
+  "code": "07004000",
+  "level": 2,
+  "desc": "health organisations"
+},
+{
+  "code": "07005000",
+  "level": 2,
+  "desc": "medical research"
+},
+{
+  "code": "07006000",
+  "level": 2,
+  "desc": "medical staff"
+},
+{
+  "code": "07007000",
+  "level": 2,
+  "desc": "medicine"
+},
+{
+  "code": "07008000",
+  "level": 2,
+  "desc": "preventative medicine"
+},
+{
+  "code": "07010000",
+  "level": 2,
+  "desc": "hospital and clinic"
+},
+{
+  "code": "07013000",
+  "level": 2,
+  "desc": "healthcare policy"
+},
+{
+  "code": "07016000",
+  "level": 2,
+  "desc": "physical fitness"
+},
+{
+  "code": "07017000",
+  "level": 2,
+  "desc": "illness"
+},
+{
+  "code": "07017001",
+  "level": 3,
+  "desc": "mental illness"
+},
+{
+  "code": "07017003",
+  "level": 3,
+  "desc": "obesity"
+},
+{
+  "code": "07019000",
+  "level": 2,
+  "desc": "patient"
+},
+{
+  "code": "08000000",
+  "level": 1,
+  "desc": "human interest"
+},
+{
+  "code": "08001000",
+  "level": 2,
+  "desc": "animal"
+},
+{
+  "code": "08003000",
+  "level": 2,
+  "desc": "people"
+},
+{
+  "code": "08003002",
+  "level": 3,
+  "desc": "celebrity"
+},
+{
+  "code": "08003003",
+  "level": 3,
+  "desc": "accomplishment"
+},
+{
+  "code": "08006000",
+  "level": 2,
+  "desc": "award and prize"
+},
+{
+  "code": "08007000",
+  "level": 2,
+  "desc": "imperial and royal matters"
+},
+{
+  "code": "08008000",
+  "level": 2,
+  "desc": "plant"
+},
+{
+  "code": "09000000",
+  "level": 1,
+  "desc": "labour"
+},
+{
+  "code": "09003000",
+  "level": 2,
+  "desc": "employment"
+},
+{
+  "code": "09003002",
+  "level": 3,
+  "desc": "job layoffs"
+},
+{
+  "code": "09005000",
+  "level": 2,
+  "desc": "labour legislation"
+},
+{
+  "code": "09006000",
+  "level": 2,
+  "desc": "retirement"
+},
+{
+  "code": "09009000",
+  "level": 2,
+  "desc": "unemployment"
+},
+{
+  "code": "09010000",
+  "level": 2,
+  "desc": "unions"
+},
+{
+  "code": "09011000",
+  "level": 2,
+  "desc": "wage and pension"
+},
+{
+  "code": "09014000",
+  "level": 2,
+  "desc": "advanced training"
+},
+{
+  "code": "09016000",
+  "level": 2,
+  "desc": "employee"
+},
+{
+  "code": 10000000,
+  "level": 1,
+  "desc": "lifestyle and leisure"
+},
+{
+  "code": 10001000,
+  "level": 2,
+  "desc": "game"
+},
+{
+  "code": 10001002,
+  "level": 3,
+  "desc": "chess"
+},
+{
+  "code": 10001003,
+  "level": 3,
+  "desc": "bridge"
+},
+{
+  "code": 10002000,
+  "level": 2,
+  "desc": "gaming and lottery"
+},
+{
+  "code": 10003000,
+  "level": 2,
+  "desc": "gastronomy"
+},
+{
+  "code": 10003001,
+  "level": 3,
+  "desc": "organic foods"
+},
+{
+  "code": 10004000,
+  "level": 2,
+  "desc": "hobby"
+},
+{
+  "code": 10004001,
+  "level": 3,
+  "desc": "DIY"
+},
+{
+  "code": 10004002,
+  "level": 3,
+  "desc": "shopping"
+},
+{
+  "code": 10004003,
+  "level": 3,
+  "desc": "gardening"
+},
+{
+  "code": 10005000,
+  "level": 2,
+  "desc": "holiday or vacation"
+},
+{
+  "code": 10007000,
+  "level": 2,
+  "desc": "travel and commuting"
+},
+{
+  "code": 10008000,
+  "level": 2,
+  "desc": "club and association"
+},
+{
+  "code": 10009000,
+  "level": 2,
+  "desc": "lifestyle (house and home)"
+},
+{
+  "code": 10010000,
+  "level": 2,
+  "desc": "leisure (general)"
+},
+{
+  "code": 10011000,
+  "level": 2,
+  "desc": "public holiday"
+},
+{
+  "code": 10012000,
+  "level": 2,
+  "desc": "hunting"
+},
+{
+  "code": 10013000,
+  "level": 2,
+  "desc": "fishing"
+},
+{
+  "code": 10016000,
+  "level": 2,
+  "desc": "beauty"
+},
+{
+  "code": 10018000,
+  "level": 2,
+  "desc": "wedding"
+},
+{
+  "code": 11000000,
+  "level": 1,
+  "desc": "politics"
+},
+{
+  "code": 11001000,
+  "level": 2,
+  "desc": "defence"
+},
+{
+  "code": 11001001,
+  "level": 3,
+  "desc": "veterans affairs"
+},
+{
+  "code": 11001002,
+  "level": 3,
+  "desc": "national security"
+},
+{
+  "code": 11001003,
+  "level": 3,
+  "desc": "security measures"
+},
+{
+  "code": 11001004,
+  "level": 3,
+  "desc": "armed Forces"
+},
+{
+  "code": 11001005,
+  "level": 3,
+  "desc": "military equipment"
+},
+{
+  "code": 11001006,
+  "level": 3,
+  "desc": "firearms"
+},
+{
+  "code": 11001007,
+  "level": 3,
+  "desc": "biological and chemical weapons"
+},
+{
+  "code": 11001008,
+  "level": 3,
+  "desc": "missile systems"
+},
+{
+  "code": 11001009,
+  "level": 3,
+  "desc": "nuclear weapons"
+},
+{
+  "code": 11002000,
+  "level": 2,
+  "desc": "diplomacy"
+},
+{
+  "code": 11002001,
+  "level": 3,
+  "desc": "summit"
+},
+{
+  "code": 11002003,
+  "level": 3,
+  "desc": "peace negotiations"
+},
+{
+  "code": 11003000,
+  "level": 2,
+  "desc": "election"
+},
+{
+  "code": 11003003,
+  "level": 3,
+  "desc": "campaign finance"
+},
+{
+  "code": 11003004,
+  "level": 3,
+  "desc": "national elections"
+},
+{
+  "code": 11003005,
+  "level": 3,
+  "desc": "regional elections"
+},
+{
+  "code": 11003007,
+  "level": 3,
+  "desc": "voting"
+},
+{
+  "code": 11003008,
+  "level": 3,
+  "desc": "poll"
+},
+{
+  "code": 11003009,
+  "level": 3,
+  "desc": "european elections"
+},
+{
+  "code": 11004000,
+  "level": 2,
+  "desc": "espionage and intelligence"
+},
+{
+  "code": 11005000,
+  "level": 2,
+  "desc": "foreign aid"
+},
+{
+  "code": 11005001,
+  "level": 3,
+  "desc": "economic sanction"
+},
+{
+  "code": 11006000,
+  "level": 2,
+  "desc": "government"
+},
+{
+  "code": 11006002,
+  "level": 3,
+  "desc": "safety of citizens"
+},
+{
+  "code": 11006005,
+  "level": 3,
+  "desc": "executive (government)"
+},
+{
+  "code": 11006008,
+  "level": 3,
+  "desc": "public officials"
+},
+{
+  "code": 11006010,
+  "level": 3,
+  "desc": "public employees"
+},
+{
+  "code": 11007000,
+  "level": 2,
+  "desc": "human rights"
+},
+{
+  "code": 11008000,
+  "level": 2,
+  "desc": "local authority"
+},
+{
+  "code": 11009000,
+  "level": 2,
+  "desc": "parliament"
+},
+{
+  "code": 11010000,
+  "level": 2,
+  "desc": "parties and movements"
+},
+{
+  "code": 11011000,
+  "level": 2,
+  "desc": "refugee"
+},
+{
+  "code": 11012000,
+  "level": 2,
+  "desc": "regional authority"
+},
+{
+  "code": 11013000,
+  "level": 2,
+  "desc": "state budget and tax"
+},
+{
+  "code": 11015000,
+  "level": 2,
+  "desc": "constitution"
+},
+{
+  "code": 11016000,
+  "level": 2,
+  "desc": "interior policy"
+},
+{
+  "code": 11016001,
+  "level": 3,
+  "desc": "data protection"
+},
+{
+  "code": 11016002,
+  "level": 3,
+  "desc": "housing and urban planning"
+},
+{
+  "code": 11016003,
+  "level": 3,
+  "desc": "pension and welfare"
+},
+{
+  "code": 11016004,
+  "level": 3,
+  "desc": "personal weapon control"
+},
+{
+  "code": 11016005,
+  "level": 3,
+  "desc": "indigenous people"
+},
+{
+  "code": 11016006,
+  "level": 3,
+  "desc": "personal data collection"
+},
+{
+  "code": 11017000,
+  "level": 2,
+  "desc": "migration"
+},
+{
+  "code": 11019000,
+  "level": 2,
+  "desc": "referenda"
+},
+{
+  "code": 11021000,
+  "level": 2,
+  "desc": "lobbying"
+},
+{
+  "code": 11022000,
+  "level": 2,
+  "desc": "regulatory policy and organisation"
+},
+{
+  "code": 11023000,
+  "level": 2,
+  "desc": "censorship"
+},
+{
+  "code": 11024000,
+  "level": 2,
+  "desc": "politics (general)"
+},
+{
+  "code": 11024002,
+  "level": 3,
+  "desc": "democracy"
+},
+{
+  "code": 11025000,
+  "level": 2,
+  "desc": "freedom of the press"
+},
+{
+  "code": 11026000,
+  "level": 2,
+  "desc": "freedom of religion"
+},
+{
+  "code": 12000000,
+  "level": 1,
+  "desc": "religion and belief"
+},
+{
+  "code": 12002000,
+  "level": 2,
+  "desc": "belief (faith)"
+},
+{
+  "code": 12006000,
+  "level": 2,
+  "desc": "values"
+},
+{
+  "code": 12006001,
+  "level": 3,
+  "desc": "ethics"
+},
+{
+  "code": 12008000,
+  "level": 2,
+  "desc": "philosophy"
+},
+{
+  "code": 12009000,
+  "level": 2,
+  "desc": "christianity"
+},
+{
+  "code": 12009004,
+  "level": 3,
+  "desc": "anglican"
+},
+{
+  "code": 12009006,
+  "level": 3,
+  "desc": "baptist"
+},
+{
+  "code": 12009010,
+  "level": 3,
+  "desc": "roman catholic"
+},
+{
+  "code": 12009013,
+  "level": 3,
+  "desc": "salvation army"
+},
+{
+  "code": 12010000,
+  "level": 2,
+  "desc": "islam"
+},
+{
+  "code": 12011000,
+  "level": 2,
+  "desc": "judaism"
+},
+{
+  "code": 12012000,
+  "level": 2,
+  "desc": "buddhism"
+},
+{
+  "code": 12013000,
+  "level": 2,
+  "desc": "hinduism"
+},
+{
+  "code": 12014000,
+  "level": 2,
+  "desc": "religious festival or holiday"
+},
+{
+  "code": 12014001,
+  "level": 3,
+  "desc": "christmas"
+},
+{
+  "code": 12014002,
+  "level": 3,
+  "desc": "easter"
+},
+{
+  "code": 12014004,
+  "level": 3,
+  "desc": "ramadan"
+},
+{
+  "code": 12015000,
+  "level": 2,
+  "desc": "religious leader"
+},
+{
+  "code": 12015001,
+  "level": 3,
+  "desc": "pope"
+},
+{
+  "code": 13000000,
+  "level": 1,
+  "desc": "science and technology"
+},
+{
+  "code": 13001000,
+  "level": 2,
+  "desc": "applied science"
+},
+{
+  "code": 13001001,
+  "level": 3,
+  "desc": "physics"
+},
+{
+  "code": 13001002,
+  "level": 3,
+  "desc": "chemistry"
+},
+{
+  "code": 13001004,
+  "level": 3,
+  "desc": "particle physics"
+},
+{
+  "code": 13002000,
+  "level": 2,
+  "desc": "engineering"
+},
+{
+  "code": 13003000,
+  "level": 2,
+  "desc": "human science"
+},
+{
+  "code": 13003001,
+  "level": 3,
+  "desc": "social sciences"
+},
+{
+  "code": 13003002,
+  "level": 3,
+  "desc": "history"
+},
+{
+  "code": 13003003,
+  "level": 3,
+  "desc": "psychology"
+},
+{
+  "code": 13003005,
+  "level": 3,
+  "desc": "anthropology"
+},
+{
+  "code": 13004000,
+  "level": 2,
+  "desc": "natural science"
+},
+{
+  "code": 13004001,
+  "level": 3,
+  "desc": "geology"
+},
+{
+  "code": 13004005,
+  "level": 3,
+  "desc": "zoology"
+},
+{
+  "code": 13004006,
+  "level": 3,
+  "desc": "physiology"
+},
+{
+  "code": 13004007,
+  "level": 3,
+  "desc": "astronomy"
+},
+{
+  "code": 13004008,
+  "level": 3,
+  "desc": "biology"
+},
+{
+  "code": 13006000,
+  "level": 2,
+  "desc": "research"
+},
+{
+  "code": 13008000,
+  "level": 2,
+  "desc": "space programme"
+},
+{
+  "code": 13009000,
+  "level": 2,
+  "desc": "science (general)"
+},
+{
+  "code": 13010000,
+  "level": 2,
+  "desc": "technology (general)"
+},
+{
+  "code": 13012000,
+  "level": 2,
+  "desc": "animal science"
+},
+{
+  "code": 13014000,
+  "level": 2,
+  "desc": "marine science"
+},
+{
+  "code": 13017000,
+  "level": 2,
+  "desc": "identification technology"
+},
+{
+  "code": 13018000,
+  "level": 2,
+  "desc": "mathematics"
+},
+{
+  "code": 13020000,
+  "level": 2,
+  "desc": "agricultural research and technology"
+},
+{
+  "code": 14000000,
+  "level": 1,
+  "desc": "social issue"
+},
+{
+  "code": 14002000,
+  "level": 2,
+  "desc": "charity"
+},
+{
+  "code": 14003000,
+  "level": 2,
+  "desc": "demographics"
+},
+{
+  "code": 14003001,
+  "level": 3,
+  "desc": "population and census"
+},
+{
+  "code": 14003002,
+  "level": 3,
+  "desc": "immigration"
+},
+{
+  "code": 14003003,
+  "level": 3,
+  "desc": "illegal immigrants"
+},
+{
+  "code": 14006000,
+  "level": 2,
+  "desc": "family"
+},
+{
+  "code": 14006001,
+  "level": 3,
+  "desc": "parent and child"
+},
+{
+  "code": 14006002,
+  "level": 3,
+  "desc": "adoption"
+},
+{
+  "code": 14006003,
+  "level": 3,
+  "desc": "marriage"
+},
+{
+  "code": 14006004,
+  "level": 3,
+  "desc": "divorce"
+},
+{
+  "code": 14006005,
+  "level": 3,
+  "desc": "sex"
+},
+{
+  "code": 14007000,
+  "level": 2,
+  "desc": "family planning"
+},
+{
+  "code": 14008000,
+  "level": 2,
+  "desc": "health insurance"
+},
+{
+  "code": 14009000,
+  "level": 2,
+  "desc": "homelessness"
+},
+{
+  "code": 14010000,
+  "level": 2,
+  "desc": "minority group"
+},
+{
+  "code": 14010001,
+  "level": 3,
+  "desc": "gays and lesbians"
+},
+{
+  "code": 14011000,
+  "level": 2,
+  "desc": "pornography"
+},
+{
+  "code": 14012000,
+  "level": 2,
+  "desc": "poverty"
+},
+{
+  "code": 14013000,
+  "level": 2,
+  "desc": "prostitution"
+},
+{
+  "code": 14014000,
+  "level": 2,
+  "desc": "racism"
+},
+{
+  "code": 14015000,
+  "level": 2,
+  "desc": "welfare"
+},
+{
+  "code": 14016000,
+  "level": 2,
+  "desc": "abortion"
+},
+{
+  "code": 14017000,
+  "level": 2,
+  "desc": "missing person"
+},
+{
+  "code": 14018000,
+  "level": 2,
+  "desc": "long term care"
+},
+{
+  "code": 14019000,
+  "level": 2,
+  "desc": "juvenile delinquency"
+},
+{
+  "code": 14021000,
+  "level": 2,
+  "desc": "slavery"
+},
+{
+  "code": 14022000,
+  "level": 2,
+  "desc": "abusive behaviour"
+},
+{
+  "code": 14023000,
+  "level": 2,
+  "desc": "death and dying"
+},
+{
+  "code": 14024000,
+  "level": 2,
+  "desc": "people"
+},
+{
+  "code": 14025000,
+  "level": 2,
+  "desc": "social issues (general)"
+},
+{
+  "code": 14025003,
+  "level": 3,
+  "desc": "discrimination"
+},
+{
+  "code": 15000000,
+  "level": 1,
+  "desc": "sport"
+},
+{
+  "code": 15002000,
+  "level": 2,
+  "desc": "alpine skiing"
+},
+{
+  "code": 15003000,
+  "level": 2,
+  "desc": "American football"
+},
+{
+  "code": 15005000,
+  "level": 2,
+  "desc": "athletics"
+},
+{
+  "code": 15007000,
+  "level": 2,
+  "desc": "baseball"
+},
+{
+  "code": 15007001,
+  "level": 3,
+  "desc": "Major League Baseball (North American Professional) - American League"
+},
+{
+  "code": 15007002,
+  "level": 3,
+  "desc": "Major League Baseball (North American Professional) - National League"
+},
+{
+  "code": 15007006,
+  "level": 3,
+  "desc": "World Series"
+},
+{
+  "code": 15008000,
+  "level": 2,
+  "desc": "basketball"
+},
+{
+  "code": 15008001,
+  "level": 3,
+  "desc": "National Basketball Association (North American Professional)"
+},
+{
+  "code": 15009000,
+  "level": 2,
+  "desc": "biathlon"
+},
+{
+  "code": 15010000,
+  "level": 2,
+  "desc": "billiards"
+},
+{
+  "code": 15011000,
+  "level": 2,
+  "desc": "bobsleigh"
+},
+{
+  "code": 15012000,
+  "level": 2,
+  "desc": "bowling"
+},
+{
+  "code": 15014000,
+  "level": 2,
+  "desc": "boxing"
+},
+{
+  "code": 15015000,
+  "level": 2,
+  "desc": "canoeing and kayaking"
+},
+{
+  "code": 15016000,
+  "level": 2,
+  "desc": "climbing"
+},
+{
+  "code": 15017000,
+  "level": 2,
+  "desc": "cricket"
+},
+{
+  "code": 15019000,
+  "level": 2,
+  "desc": "cycling"
+},
+{
+  "code": 15021000,
+  "level": 2,
+  "desc": "diving"
+},
+{
+  "code": 15022000,
+  "level": 2,
+  "desc": "equestrian"
+},
+{
+  "code": 15024000,
+  "level": 2,
+  "desc": "field Hockey"
+},
+{
+  "code": 15025000,
+  "level": 2,
+  "desc": "figure Skating"
+},
+{
+  "code": 15027000,
+  "level": 2,
+  "desc": "golf"
+},
+{
+  "code": 15028000,
+  "level": 2,
+  "desc": "gymnastics"
+},
+{
+  "code": 15030000,
+  "level": 2,
+  "desc": "horse racing"
+},
+{
+  "code": 15031000,
+  "level": 2,
+  "desc": "ice hockey"
+},
+{
+  "code": 15031001,
+  "level": 3,
+  "desc": "National Hockey League (North American)"
+},
+{
+  "code": 15035000,
+  "level": 2,
+  "desc": "lacrosse"
+},
+{
+  "code": 15036000,
+  "level": 2,
+  "desc": "luge"
+},
+{
+  "code": 15037000,
+  "level": 2,
+  "desc": "marathon"
+},
+{
+  "code": 15038000,
+  "level": 2,
+  "desc": "modern pentathlon"
+},
+{
+  "code": 15039000,
+  "level": 2,
+  "desc": "motor racing"
+},
+{
+  "code": 15039001,
+  "level": 3,
+  "desc": "Formula One"
+},
+{
+  "code": 15039004,
+  "level": 3,
+  "desc": "Indy"
+},
+{
+  "code": 15039006,
+  "level": 3,
+  "desc": "NHRA"
+},
+{
+  "code": 15040000,
+  "level": 2,
+  "desc": "motor rallying"
+},
+{
+  "code": 15043000,
+  "level": 2,
+  "desc": "nordic skiing"
+},
+{
+  "code": 15047000,
+  "level": 2,
+  "desc": "rowing"
+},
+{
+  "code": 15048000,
+  "level": 2,
+  "desc": "rugby league"
+},
+{
+  "code": 15049000,
+  "level": 2,
+  "desc": "rugby union"
+},
+{
+  "code": 15050000,
+  "level": 2,
+  "desc": "sailing"
+},
+{
+  "code": 15053000,
+  "level": 2,
+  "desc": "snow boarding"
+},
+{
+  "code": 15054000,
+  "level": 2,
+  "desc": "soccer"
+},
+{
+  "code": 15055000,
+  "level": 2,
+  "desc": "softball"
+},
+{
+  "code": 15056000,
+  "level": 2,
+  "desc": "speed skating"
+},
+{
+  "code": 15058000,
+  "level": 2,
+  "desc": "sports organisations"
+},
+{
+  "code": 15058001,
+  "level": 3,
+  "desc": "IOC"
+},
+{
+  "code": 15061000,
+  "level": 2,
+  "desc": "surfing"
+},
+{
+  "code": 15062000,
+  "level": 2,
+  "desc": "swimming"
+},
+{
+  "code": 15064000,
+  "level": 2,
+  "desc": "Taekwon-Do"
+},
+{
+  "code": 15065000,
+  "level": 2,
+  "desc": "tennis"
+},
+{
+  "code": 15066000,
+  "level": 2,
+  "desc": "triathlon"
+},
+{
+  "code": 15067000,
+  "level": 2,
+  "desc": "volleyball"
+},
+{
+  "code": 15067001,
+  "level": 3,
+  "desc": "beach volleyball"
+},
+{
+  "code": 15068000,
+  "level": 2,
+  "desc": "water polo"
+},
+{
+  "code": 15070000,
+  "level": 2,
+  "desc": "weightlifting"
+},
+{
+  "code": 15072000,
+  "level": 2,
+  "desc": "wrestling"
+},
+{
+  "code": 15073000,
+  "level": 2,
+  "desc": "sports event"
+},
+{
+  "code": 15073001,
+  "level": 3,
+  "desc": "Summer Olympics"
+},
+{
+  "code": 15073002,
+  "level": 3,
+  "desc": "Winter Olympics"
+},
+{
+  "code": 15073005,
+  "level": 3,
+  "desc": "Commonwealth Games"
+},
+{
+  "code": 15073018,
+  "level": 3,
+  "desc": "World Cup"
+},
+{
+  "code": 15073046,
+  "level": 3,
+  "desc": "Super Bowl"
+},
+{
+  "code": 15074000,
+  "level": 2,
+  "desc": "rodeo"
+},
+{
+  "code": 16000000,
+  "level": 1,
+  "desc": "unrest"
+},
+{
+  "code": 16001000,
+  "level": 2,
+  "desc": "act of terror"
+},
+{
+  "code": 16002000,
+  "level": 2,
+  "desc": "armed conflict"
+},
+{
+  "code": 16003000,
+  "level": 2,
+  "desc": "civil unrest"
+},
+{
+  "code": 16003001,
+  "level": 3,
+  "desc": "revolutions"
+},
+{
+  "code": 16003002,
+  "level": 3,
+  "desc": "rebellions"
+},
+{
+  "code": 16003004,
+  "level": 3,
+  "desc": "religious conflict"
+},
+{
+  "code": 16005000,
+  "level": 2,
+  "desc": "guerrilla activity"
+},
+{
+  "code": 16005002,
+  "level": 3,
+  "desc": "bombings"
+},
+{
+  "code": 16006000,
+  "level": 2,
+  "desc": "massacre"
+},
+{
+  "code": 16007000,
+  "level": 2,
+  "desc": "riots"
+},
+{
+  "code": 16008000,
+  "level": 2,
+  "desc": "demonstration"
+},
+{
+  "code": 16009000,
+  "level": 2,
+  "desc": "war"
+},
+{
+  "code": 16009002,
+  "level": 3,
+  "desc": "international military intervention"
+},
+{
+  "code": 16009003,
+  "level": 3,
+  "desc": "prisoners and detainees"
+},
+{
+  "code": 16011000,
+  "level": 2,
+  "desc": "crisis"
+},
+{
+  "code": 17000000,
+  "level": 1,
+  "desc": "weather"
+},
+{
+  "code": 17003000,
+  "level": 2,
+  "desc": "report"
+},
+{
+  "code": 17003001,
+  "level": 3,
+  "desc": "weather news"
+},
+{
+  "code": 17004000,
+  "level": 2,
+  "desc": "statistic"
+},
+{
+  "code": 17005000,
+  "level": 2,
+  "desc": "warning"
+}
+]
