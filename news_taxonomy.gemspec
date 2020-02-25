@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Shane Moore"]
   spec.email         = ["shane@aylien.com"]
 
-  spec.summary       = "Convert NewsTaxonomy codes to readable English and back again"
-  spec.description   = "Convert NewsTaxonomy codes to readable English and back again"
+  spec.summary       = "Convert News Taxonomy codes to readable English and back again"
+  spec.description   = "Convert News Taxonomy codes to readable English and back again"
   spec.homepage      = "https://github.com/AYLIEN/taxonomy_dictionary"
   spec.license       = "MIT"
 
