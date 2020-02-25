@@ -1,4 +1,6 @@
-require "news_taxonomy/version"
+# frozen_string_literal: true
+
+require 'news_taxonomy/version'
 require_relative 'news_taxonomy/iab_qtg'
 require_relative 'news_taxonomy/iptc'
 

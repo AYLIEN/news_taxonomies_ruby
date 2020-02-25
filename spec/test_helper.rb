@@ -1,5 +1,7 @@
-$LOAD_PATH.unshift File.expand_path("../../lib", __FILE__)
-require "news_taxonomy"
+# frozen_string_literal: true
+
+$LOAD_PATH.unshift File.expand_path('../lib', __dir__)
+require 'news_taxonomy'
 require 'pry-byebug'
 
-require "minitest/autorun"
+require 'minitest/autorun'
