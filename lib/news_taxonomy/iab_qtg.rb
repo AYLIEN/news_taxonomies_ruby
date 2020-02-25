@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'json'
-module Taxonomy
+module NewsTaxonomy
   class IABQTG
     attr_accessor :lookup_hash
 

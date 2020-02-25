@@ -1,11 +1,11 @@
 require "test_helper"
 
-describe Taxonomy do
-  let(:iab_qtg) { Taxonomy::IABQTG.new }
-  let(:iptc) { ::Taxonomy::IPTC.new }
+describe NewsTaxonomy do
+  let(:iab_qtg) { NewsTaxonomy::IABQTG.new }
+  let(:iptc) { ::NewsTaxonomy::IPTC.new }
 
   it 'will have a version' do
-    refute_nil ::Taxonomy::VERSION
+    refute_nil ::NewsTaxonomy::VERSION
   end
   
   # IPTC

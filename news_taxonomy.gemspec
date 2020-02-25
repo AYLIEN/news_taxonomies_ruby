@@ -1,16 +1,16 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "taxonomy/version"
+require "news_taxonomy/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "taxonomy"
-  spec.version       = Taxonomy::VERSION
+  spec.name          = "news_taxonomy"
+  spec.version       = NewsTaxonomy::VERSION
   spec.authors       = ["Shane Moore"]
   spec.email         = ["shane@aylien.com"]
 
-  spec.summary       = "Convert Taxonomy codes to readable English and back again"
-  spec.description   = "Convert Taxonomy codes to readable English and back again"
+  spec.summary       = "Convert NewsTaxonomy codes to readable English and back again"
+  spec.description   = "Convert NewsTaxonomy codes to readable English and back again"
   spec.homepage      = "https://github.com/AYLIEN/taxonomy_dictionary"
   spec.license       = "MIT"
 
