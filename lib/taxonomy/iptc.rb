@@ -10,9 +10,9 @@ module Taxonomy
       @lookup_hash = JSON.parse(IO.read(json_file_pwd))
     end
 
-    def lookup(string)
-      is_iptc = string[0..1].upcase.eql?('iptc')
-      is_iptc ? iptc_to_desc(string) : desc_to_iptc(string)
+    def lookup(key)
+      is_iptc = key.is_a?(Integer)
+      is_iptc ? iptc_to_desc(key) : desc_to_iptc(key)
     end
 
     def iptc_to_desc(iptc)
@@ -21,7 +21,7 @@ module Taxonomy
     end
 
     def desc_to_iptc(desc)
-      result = @lookup_hash.invert.find { |i| i['desc'].eql?(desc) }
+      result = @lookup_hash.find { |i| i['desc'].eql?(desc) }
       result.nil? ? desc : result['code']
     end
   end

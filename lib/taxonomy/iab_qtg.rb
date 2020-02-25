@@ -11,7 +11,7 @@ module Taxonomy
     end
 
     def lookup(string)
-      is_iab = string[0..1].upcase.eql?('IAB')
+      is_iab = string[0..2].upcase.eql?('IAB')
       is_iab ? iab_to_desc(string) : desc_to_iab(string)
     end
 
@@ -21,7 +21,7 @@ module Taxonomy
     end
 
     def desc_to_iab(desc)
-      result = @lookup_hash.invert.find { |i| i['desc'].eql?(desc) }
+      result = @lookup_hash.find { |i| i['desc'].eql?(desc) }
       result.nil? ? desc : result['iab_code']
     end
   end
