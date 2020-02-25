@@ -2,7 +2,7 @@ require "test_helper"
 
 describe NewsTaxonomy do
   let(:iab_qtg) { NewsTaxonomy::IABQTG.new }
-  let(:iptc) { ::NewsTaxonomy::IPTC.new }
+  let(:iptc) { NewsTaxonomy::IPTC.new }
 
   it 'will have a version' do
     refute_nil ::NewsTaxonomy::VERSION
